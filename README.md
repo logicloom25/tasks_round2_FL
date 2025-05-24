@@ -2,7 +2,7 @@
 
 - **Problem statement:** https://app.logicloom.iitmparadox.org/round2/1
 
-# task1_round2_FL (Learning SQL with Pirate Treasure Hunt)
+# task2_round2_FL (Learning SQL with Pirate Treasure Hunt)
 
 - **Problem statement:** https://app.logicloom.iitmparadox.org/round2/2
 
