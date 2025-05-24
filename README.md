@@ -6,6 +6,10 @@
 
 - **Problem statement:** https://app.logicloom.iitmparadox.org/round2/2
 
+# task3_round2_FL (Will be released soon)
+
+- **Problem statement:** https://app.logicloom.iitmparadox.org/round2/3
+
 ```
 --- Deliverables & Upload Instructions
 
@@ -16,6 +20,7 @@
 > Put up all Answers for Task-1A Activities 1 to 5 - in `task1a.md` file
 > Put up all Answers for Task-1B Activities 1 & 2 - in `task1b.md` file
 > Put up all Answers for Task-2 Activities 1 to 8 - in `task2.md` file
+> Put up all Answers for Task-3 Activities - in `task3.md` file
 
 Please make sure all the files are properly documented in markdown, such that your responses
 are clearly understandable.
